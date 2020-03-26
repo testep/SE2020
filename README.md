@@ -8,7 +8,7 @@ BINF Groups
 <li>Group 4 -> </li>
 <li>Group 5 -> </li>
 <li>Group 6 ->  </li>
-<li>Group 7 -> </li>
+<li>Group 7 -> 404! (linkun e projektit githubit)</li>
 <li>Group 8 -> </li> 
 <li>Group 9 -> </li>
 <li>Group 10 -> </li>
