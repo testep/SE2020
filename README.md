@@ -5,7 +5,7 @@ BINF Groups
 <li>Group 1 -> </li>
 <li>Group 2 -> </li>
 <li>Group 3 -> </li>
-<li>Group 4 -> </li>
+<li>Group 4 -> ZIP (https://github.com/ktroka17/ZIP)</li>
 <li>Group 5 -> </li>
 <li>Group 6 ->  </li>
 <li>Group 7 -> 404! (https://github.com/llikaj17/404-)</li>
