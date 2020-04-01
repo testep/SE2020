@@ -2,7 +2,7 @@
 
 BINF Groups
 <ul>
-<li>Group 1 -> 0ToHero(https://github.com/amela-rahimi/0toHero/settings/access)
+<li>Group 1 -> 0ToHero(https://github.com/amela-rahimi/0toHero)
 <li>Group 2 -> </li>
 <li>Group 3 -> </li>
 <li>Group 4 -> ZIP (https://github.com/ktroka17/ZIP)</li>
