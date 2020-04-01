@@ -9,7 +9,7 @@ BINF Groups
 <li>Group 5 -> SmartStyle (https://github.com/kkasharaj17/SmartStyle)</li>
 <li>Group 6 -> CodingChaos(https://github.com/bkeraj/Project)
 <li>Group 7 -> 404! (https://github.com/llikaj17/404-)</li>
-<li>Group 8 -> </li> 
+<li>Group 8 -> Quarantivity (https://github.com/ksubashi17/Quarantivity)
 <li>Group 9 -> </li>
 <li>Group 10 -> </li>
 </ul>
