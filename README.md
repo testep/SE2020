@@ -4,7 +4,7 @@ BINF Groups
 <ul>
 <li>Group 1 -> 0ToHero(https://github.com/amela-rahimi/0toHero)
 <li>Group 2 -> </li>
-<li>Group 3 -> </li>
+<li>Group 3 -> </li>Tell-all(https://github.com/ehysenagolli17/Tell-all)
 <li>Group 4 -> ZIP (https://github.com/ktroka17/ZIP)</li>
 <li>Group 5 -> SmartStyle (https://github.com/kkasharaj17/SmartStyle)</li>
 <li>Group 6 -> CodingChaos(https://github.com/bkeraj/Project)
